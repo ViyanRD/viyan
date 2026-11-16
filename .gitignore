@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-*
+
+# Node (if you ever add tooling)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Lock files we don't need yet
+package-lock.json
+yarn.lock
+
+# Local test artifacts
+*.zip
+render/
