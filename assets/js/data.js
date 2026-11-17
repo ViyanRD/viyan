@@ -166,8 +166,7 @@ const SITE = {
             t("Standby attitude indicator: system architecture, hardware debugging, software design", "سیستم standby attitude indicator: معماری سیستم، دیباگ سخت‌افزار، طراحی نرم‌افزار"),
             t("Digital health monitoring gadget: signal-processing algorithms", "گجت پایش دیجیتال سلامت: الگوریتم‌های پردازش سیگنال"),
             t("Firmware for state estimation systems: developer", "فریمور سیستم‌های state estimation: توسعه‌دهنده")] },
-          { title: t("Research interests", "علایق پژوهشی"), items: [t("Operator theory", "نظریه عملگرها"), t("Event-driven systems (QP/C++ statecharts)", "سیستم‌های رویدادمحور (QP/C++ statecharts)"), t("Signal processing", "پردازش سیگنال")] },
-          { title: t("Awards", "افتخارات"), items: [t("Top 4.5% among 128,000+ candidates in the Iranian national university entrance exam (Mathematics and Physics); Region 1 rank 3,000", "رتبه در میان ۴٫۵ درصد برتر از بیش از ۱۲۸ هزار داوطلب کنکور ریاضی و فیزیک؛ رتبه ۳٬۰۰۰ منطقه ۱")] }
+          { title: t("Research interests", "علایق پژوهشی"), items: [t("Operator theory", "نظریه عملگرها"), t("Event-driven systems (QP/C++ statecharts)", "سیستم‌های رویدادمحور (QP/C++ statecharts)"), t("Signal processing", "پردازش سیگنال")] }
         ]
       }
     },
